@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cricketlivescore%20/precache-manifest.5f331561c012e3090395ba29267a2b3d.js"
+  "/cricketlivescore%20/precache-manifest.8e71de4b0a5ac0089586b4d6bb5ac09b.js"
 );
 
 self.addEventListener('message', (event) => {

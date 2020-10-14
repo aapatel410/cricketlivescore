@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91f2498509cf126c1160ee76aad25cd0",
+    "revision": "a7d9e492b90a9f2967e3735e0f5a1242",
     "url": "/cricketlivescore%20/index.html"
   },
   {
-    "revision": "3476279391c1172ede81",
+    "revision": "c5e68d2aae784c0bc7be",
     "url": "/cricketlivescore%20/static/css/main.37dad6c0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cricketlivescore%20/static/js/2.6b86b4a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3476279391c1172ede81",
-    "url": "/cricketlivescore%20/static/js/main.793884fb.chunk.js"
+    "revision": "c5e68d2aae784c0bc7be",
+    "url": "/cricketlivescore%20/static/js/main.87eb7efb.chunk.js"
   },
   {
     "revision": "73502080dd50a335e64c",
